@@ -1,7 +1,7 @@
 # PicardFuchs
 Algorithms for minimal Picard-Fuchs operators of Feynman integrals
 ==================================================================
-by Pierre Lairez and Pierre Vanhove
+by [Pierre Lairez]() and [Pierre Vanhove]()
 
 This repository contains the additional files for the article [arXiv:].
 
@@ -22,3 +22,5 @@ analysed in section~5
    of section~6.3
 * The differential operator for the [pentabox graph](http://PF-Pentabox.ipynb)
   of section~6.4
+
+The results given here have been derived using the `Magma` code [Period](https://github.com/lairez/periods) described in the article [Computing periods of rational integrals](https://arxiv.org/abs/1404.5069) and the ORE algebra programs [Ore Algebra in Sage](http://www.risc.jku.at/research/combinat/software/ore_algebra), [arXiv 1306.4263](https://arxiv.org/abs/1306.4263) and the [Symbolic-Numeric Factorization of Differential Operators](https://arxiv.org/abs/2205.08991)
