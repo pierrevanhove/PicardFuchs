@@ -12,7 +12,7 @@ This repository contains the additional files for the article [arXiv:2209.10962]
 [4 loops](https://nbviewer.org/github/pierrevanhove/PicardFuchs/blob/main/PF-4sunset.ipynb),
 [5 loops](https://nbviewer.org/github/pierrevanhove/PicardFuchs/blob/main/PF-5sunset.ipynb)  analysed in  section 4
 * The differential operator for the multiloop ice-cream graph at
-  [1 loop] the triangle graph (https://nbviewer.org/github/pierrevanhove/PicardFuchs/blob/main/PF-triangle.ipynb),   [2 loops](http://nbviewer.org/github/pierrevanhove/PicardFuchs/blob/main/PF-icecream-2loop.ipynb),
+   the triangle graph [1 loop](https://nbviewer.org/github/pierrevanhove/PicardFuchs/blob/main/PF-triangle.ipynb),   [2 loops](http://nbviewer.org/github/pierrevanhove/PicardFuchs/blob/main/PF-icecream-2loop.ipynb),
 [3 loops](https://nbviewer.org/github/pierrevanhove/PicardFuchs/blob/main/PF-icecream-3loop.ipynb)
 analysed in section~5
 * The differential operator for the [kite graph](https://nbviewer.org/github/pierrevanhove/PicardFuchs/blob/main/PF-Kite.ipynb) of section 6.1
