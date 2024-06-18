@@ -1,5 +1,4 @@
-# PicardFuchs
-Algorithms for minimal Picard-Fuchs operators of Feynman integrals
+# Algorithms for minimal Picard-Fuchs operators of Feynman integrals
 ==================================================================
 by [Pierre Lairez](https://pierre.lairez.fr) and [Pierre Vanhove](https://pierrevanhove.github.io)
 
